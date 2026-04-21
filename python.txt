@@ -1,0 +1,90 @@
+python
+
+data type
+1.single variable    
+   
+    integer
+      eg : age =40
+    
+    float
+       eg : y =3.14
+    
+    complex
+        eg : 2+3j
+
+    string
+        eg :"hello"
+    
+2. multi variable
+
+
+    list
+       eg[1,2,3]
+    tuple
+       eg(1,2,3)
+    range
+       eg: range(5)
+    set
+       eg: {1,2,3}
+    dict 
+      eg:{"a":1}
+
+
+
+
+
+
+
+
+
+
+operator in python
+
+1.Arithmetic Operators
+    + (Addition)   a=5+4
+    - (Subtraction)
+    * (Multiplication)
+    / (Division - returns a float)
+    // (Floor Division - returns an integer) 
+    % (Modulus/Remainder)
+    ** (Exponentiation)
+
+2.Comparison (Relational) Operators
+     == (Equal)
+     != (Not equal)
+     > (Greater than)
+     < (Less than)
+     >= (Greater than or equal)
+     <= (Less than or equal)
+
+3.Logical Operators 
+     and (True if both are true)
+     or (True if one is true)
+     not (Reverses the boolean state)
+
+4.Bitwise Operators
+     & (AND)
+     | (OR)
+     ^ (XOR) 
+     ~ (NOT)
+     << (Left Shift) 
+    >> (Right Shift)
+
+5.Membership Operators: 
+     in (True if found)
+     not in (True if not found).
+
+6.Identity Operators: 
+     is (True if identical)
+     is not (True if not identical)
+
+7.assignment  operator
+      
+Operator 	Name	          
++=	Addition Assignment	
+-=	Subtraction Assignment	
+*=	Multiplication Assignment	
+/=	Division Assignment	
+//=	Floor Division Assignment	
+%=	Modulus Assignment	
+**=	Exponentiation Assignment
